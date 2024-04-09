@@ -1,5 +1,5 @@
 <h1 align="center">Sup 👋, I'm Egnio</h1>
-<h3 align="center">A passionate Software Engineer Student and workaholic programmer</h3>
+<h3 align="center">A passionate Software Engineer Student and Workaholic Programmer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egnio" alt="egnio" /></a> </p>
 
