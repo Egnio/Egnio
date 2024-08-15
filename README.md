@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Proyecto-Final-Hotel-Egnio-Marcelo](https://github.com/Egnio/Proyecto-Final-Hotel-Egnio-Marcelo.git)
 
-- 🌱 I’m currently learning **C and MySQL Server**
+- 🌱 I’m currently learning **C language and MySQL Server**
 
 - 📫 How to reach me **egnio.isaac@gmail.com**
 
