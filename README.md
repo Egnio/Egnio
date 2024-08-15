@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Proyecto-Final-Hotel-Egnio-Marcelo](https://github.com/Egnio/Proyecto-Final-Hotel-Egnio-Marcelo.git)
 
-- 🌱 I’m currently learning **C and MySql**
+- 🌱 I’m currently learning **C and MySQL Server**
 
 - 📫 How to reach me **egnio.isaac@gmail.com**
 
-- ⚡ Fun fact **Creative and Freelancer Artist during nights**
+- ⚡ Fun fact **Creative and Freelancer during nights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
