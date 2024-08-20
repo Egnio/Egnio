@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **egnio.isaac@gmail.com**
 
-- ⚡ Fun fact **Creative and Freelancer during nights**
+- ⚡ Fun fact **Creative freelancer & Sea fishing lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
