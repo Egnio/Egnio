@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egnio" alt="egnio" /></a> </p>
 
-- 🌱 I’m currently learning **C language and MySQL Server**
+- 🌱 I’m currently learning **C language**
 
 - 🦆 I am currently studying in **the CS50x.ni course**
 
