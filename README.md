@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 🦆 I am currently studying in **the CS50x.ni course**
+- 🦆 I am a **CS50x.ni course** graduated 
 
 - 💬 Ask me about **egnio.isaac@gmail.com**
 
