@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egnio" alt="egnio" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently working at **Toast** as a Tier 2 Device Expert
 
-- 🦆 I am a **CS50x.ni course** graduated 
+- 🦆 I am a **CS50x.ni course** graduated and **Web50x.ni course** student
 
 - 💬 Ask me about **egnio.isaac@gmail.com**
 
-- ⚡ Fun fact **Creative freelancer & Sea fishing lover**
+- ⚡ Fun fact **Creative freelancer, Electronic & Sea fishing lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
